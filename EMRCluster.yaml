@@ -17,7 +17,7 @@
       "Default": "m3.xlarge"
     },
     "CoreInstanceType": {
-      "Description": "Instance type to be used for core instances.",
+      "Description": "Instance types to be used for core instances.",
       "Type": "String",
       "Default": "m3.xlarge"
     },
