@@ -12,7 +12,7 @@
       "Type": "String"
     },
     "MasterInstanceType": {
-      "Description": "Instance type to be used for the master instance.",
+      "Description": "Instance types to be used for the master instance.",
       "Type": "String",
       "Default": "m3.xlarge"
     },
