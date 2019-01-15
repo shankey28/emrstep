@@ -2,7 +2,7 @@ AWSTemplateFormatVersion: '2010-09-09'
 Description: EMR Cluster for Spark
 Parameters:
   EMRClusterName:
-    Description: Name of the cluster
+    Description: Nae of the cluster
     Type: String
     Default: emrcluster
   KeyName:
